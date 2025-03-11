@@ -21,5 +21,6 @@ The dashboard provides a comprehensive analysis of British airlines, focusing on
 ## Viewing the Dashboard
 
 You can view the Tableau dashboard by downloading the `.twb`/`.twbx` file and opening it with Tableau Desktop.
+ **[View Dashboard](https://public.tableau.com/app/profile/megha.singh4847/viz/BritishAirlineAnalysis_17195004222870/BritishAirwayAnalysis?publish=yes)**
 
 
